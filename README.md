@@ -29,8 +29,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jasoniyi/url-shortening-api-project)
-- Live Site URL: [Add live site URL here](https://url-shortening-api-project.vercel.app/)
+- Solution URL: [https://github.com/Jasoniyi/url-shortening-api-project](https://github.com/Jasoniyi/url-shortening-api-project)
+- Live Site URL: [https://url-shortening-api-project.vercel.app/](https://url-shortening-api-project.vercel.app/)
 
 ## My process
 
@@ -45,7 +45,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jasoniyi)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
